@@ -4,7 +4,7 @@
 Step 1:
 ```
 
-![Image](http://url/LABREPORTSSStep1.png)   
+![Image](./LAB REPORT SS Step1.png)   
 
 
 For this step, I downloaded Visual Studio Code using the link provided in the write-up. I had it already downloaded previously from another class which did not take long to load up. 
