@@ -35,7 +35,7 @@ Step 4 required me to create a file named WhereAmI where I inserted the code pro
 Step 5:
 ```
 
-![Image](http://url/LAB REPORT SS Step 5.png)  
+![Image](http://url/LAB-REPORT-SS-Step-5.png)  
 
 Step 5 was using the command ssh-keygen which gave me a bunch of lines of code where I then was asked to use a passphrase which was a shorter version of our password. After reentering the passphrase and entering the file, the terminal printed an image. After exiting, and running the command *ssh cs15lfa22zz@ieng6.ucsd.edu* and *mkdir .ssh* which logged me out so I exited the terminal and started a new one, and ran *scp /Users/joe/.ssh/id_rsa.pubcs15lfa22@ieng6.ucsd.edu:~/.ssh/authorized_keys* with my personal identifications, I was just asked to use my passphrase instead of the long password. This was a very fast version to be able to log in. 
 
@@ -43,6 +43,6 @@ Step 5 was using the command ssh-keygen which gave me a bunch of lines of code w
 Step 6:
 ```
 
-![Image](http://url/LAB REPORT SS Step 6.png)
+![Image](http://url/LAB-REPORT-SS-Step-6.png)
 
 On this and final step of the write up, we were asked to use the command *ssh cs15lfa22zz@ieng6.ucsd.edu “ls”* where it asked for our passphrase instead of our password. We then were provided with what file we were using and what was being accessed through Visual Studio Code.
