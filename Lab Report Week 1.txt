@@ -1,7 +1,7 @@
 # Lab Report Week 1
 
 'Step 1:'
-![Image]()   
+![Image](LAB REPORT SS Step 1.pdf)   
 For this step, I downloaded Visual Studio Code using the link provided in the write-up. I had it already downloaded previously from another class which did not take long to load up. 
 
 'Step 2:' 
