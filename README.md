@@ -4,7 +4,7 @@
 Step 1:
 ```
 
-![Image](http://url/LAB REPORT SS Step 1.png)   
+![Image](http://url/LABREPORTSSStep1.png)   
 
 
 For this step, I downloaded Visual Studio Code using the link provided in the write-up. I had it already downloaded previously from another class which did not take long to load up. 
@@ -13,14 +13,14 @@ For this step, I downloaded Visual Studio Code using the link provided in the wr
 Step 2:
 ```
 
-![Image](http://url/LAB REPORT SS Step 2.png)  
+![Image](http://url/LABREPORTSSStep2.png)  
 On this step, I used the command *ssh cs15lfa22zz@ieng6.ucsd.edu* on a new terminal where I got a couple of statements asking if I wanted to continue with the process, in which I agreed, it then asked for my password that connects to my CSE 15L account. After entering the process, I was given the screenshot above showing you how many users are also logging in with the same server and how long the average loading times were. 
 
 ```
 Step 3: 
 ```
 
-![Image](http://url/LAB REPORT SS Step 3.png)  
+![Image](http://url/LABREPORTSSStep3.png)  
 Step 3 was playing around with commands where I spammed a whole bunch of random commands until something was printed showing me a directory. I spammed *cd; cd; cd~; cd ls; ls; ls -a; cd; cd; txt.helloooo; ls -lat; ls; ls; dkf; exit; fka; dkf; cd; cd; c; cd…; cd..*, this lead me to the whole bunch of statements shown in the screenshot. 
 
 ```
